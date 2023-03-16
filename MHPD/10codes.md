@@ -1,0 +1,72 @@
+# 10 Codes
+
+- [10-0] Disappeared
+- [10-1] Frequency Change
+- [10-2] Signal Check
+- [10-3] Stop Transmitting
+- [10-4] Affirmative
+- [10-5] Meal Break
+- [10-6] Busy
+- [10-7] Out of Service
+- [10-8] In Service
+- [10-9] Repeat
+- [10-10] Fight in Progress
+- [10-11] Traffic Stop
+- [10-12] Active Ride Along
+- [10-13] Shots Fired
+- [10-15] Subject in custody
+- [10-16] Stolen Vehicle
+- [10-17] Suspicious Person
+- [10-20] Location
+- [10-22] Disregard
+- [10-23] Arrived on Scene
+- [10-25] Domestic Dispute
+- [10-26] ETA (Estimated Time of Arrival)
+- [10-27] Drivers License Check
+- [10-28] Vehicle License Plate Check
+- [10-29] NCIC Warrant Check
+- [10-30] Wanted Person
+- [10-31] Not Wanted No Warrants
+- [10-32] Request Backup (Code 1,2,3)
+- [10-35] Wrap The Scene Up
+- [10-41] Beginning Tour of Duty
+- [10-42] Ending Tour of Duty
+- [10-43] Information
+- [10-49] Homicide
+- [10-50] Vehicle Accident: PD: Property Damage, PI: Person/s Injured, F: Fatal
+- [10-51] Request Towing Service
+- [10-52] Request EMS
+- [10-53] Request Fire Department
+- [10-55] Intoxicated Drivers
+- [10-56] Intoxicated Pedestrian
+- [10-60] Armed with a Gun
+- [10-61] Armed with a Knife
+- [10-62] Kidnapping
+- [10-64] Sexual Assault
+- [10-65] Escorting Prisoner
+- [10-66] Reckless Drivers
+- [10-68] Armed Robbery
+- [10-70] Foot Pursuit
+- [10-71] Request Supervisor at Scene
+- [10-73] Advise Status
+- [10-75] Working Fire
+- [10-80] Vehicle Pursuit
+- [10-90] In Game Warning
+- [10-93] Removed From Game
+- [10-95] Server Restart
+- [10-97] en Route
+- [10-99] Officer in Distress (Extreme Emergency Only)
+- [11-44] Person Deceased
+
+### Signals
+- [Signal 100] Emergency Traffic Only
+
+### Codes
+- [Code 0] Emergency Traffic Only
+- [Code 1] No Lights No Sirens
+- [Code 2] Lights No Sirens 
+- [Code 3] Lights and Sirens 
+- [Code 4] Under Control
+- [Code 5] Felony Stop/High Risk Stop
+- [Code 6] Searching The Area
+- [Code 10] Game Crashed
