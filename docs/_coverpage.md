@@ -10,7 +10,7 @@
 - Community Focused
 - Happiness Encouraged
 
-[GitHub](https://github.com/itzdabbzz/mpdocs/)
 [Forums](https://maplehearts.net)
 [Discord](https://discord.gg/maplehearts)
 [Server Connect](https://cfx.re/join/eda4yp)
+[GitHub](https://github.com/Maple-Hearts/Maple-Docs)
