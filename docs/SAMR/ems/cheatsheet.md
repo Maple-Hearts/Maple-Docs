@@ -35,13 +35,13 @@ The next thing you should do when you get to a patient is get a baseline set of 
 
 ## Authorized Equipment
 
-!>  Glossary for Medications:
-- **[P]** - Primary Medication - prioritized medication before secondary medication. 
-- **[S]** - Secondary Medication - used as an alternative to primary medication due to allergies, conflicting medications, etc. 
-- **IM** - Intramuscular - Via the muscle tissue.
-- **IV** - Intravenous - Via the vein.
-- **IO** - Intraosseous - Via the bone marrow.
-- **IN** - Intranasal - Via the nasal entrance
+>  Glossary for Medications:
+> -  **[P]** - Primary Medication - prioritized medication before secondary medication. 
+> -  **[S]** - Secondary Medication - used as an alternative to primary medication due to allergies, conflicting medications, etc. 
+> -  **IM** - Intramuscular - Via the muscle tissue.
+> -  **IV** - Intravenous - Via the vein.
+> -  **IO** - Intraosseous - Via the bone marrow.
+> -  **IN** - Intranasal - Via the nasal entrance
 
 <!-- tabs:start -->
 

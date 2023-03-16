@@ -13,4 +13,3 @@
 [Forums](https://maplehearts.net)
 [Discord](https://discord.gg/maplehearts)
 [Server Connect](https://cfx.re/join/eda4yp)
-[GitHub](https://github.com/Maple-Hearts/Maple-Docs)
