@@ -6,6 +6,7 @@
     * [Chain Of Command](SAMR/chainofcommand.md "SAMR - Chain Of Command")
     * [EMS]("SAMR/ems/home.md" "SAMR - EMS")
         * [Generalized Rules](SAMR/ems/generalRules.md "SAMS - Rules")
+        * [Rankings](SAMR/ems/ranking.md "SAMS - Rankings")
         * [On Scene Duties](SAMR/ems/onscene.md "SAMS - Scene Duties")
         * [Cheat Sheet](SAMR/ems/cheatsheet.md "SAMS - Cheat Sheet")
     * [Fire]("SAMR/fire/home.md" "SAMR - Fire")

@@ -58,7 +58,7 @@ The next thing you should do when you get to a patient is get a baseline set of 
 
 - **Infrared Thermometer** - used by running across the forehead and around behind the ear to get the temperature of a patient.
 - **ECG 12-Lead Lifepak 15** - an ECG monitor and in-built defibrillator unit/AED, the lifepak 15 utilises up to 12 leads to monitor the patient’s pulse, cardiac rhythm, electrical signals in the heart, oxygen saturation levels and blood pressure. The lifepak 15 is able to provide a shock to a patient of up to 360 J(oules) for resuscitation or pace-maker usage in extreme arrhythmia situations (bradyarrhythmia or tachyarrhythmia). 
-- **Glucometer** - a device used to monitor and check the blood glucose levels in a patient to determine if they are normal, high or lower than they should be.
+- **Haemoglucometer (HGT)** - This device may sound like a bit of a mouthful, but if you have diabetes, you’ll probably know that it can be used to check your blood sugar status. The paramedic will be able to use this device to take a quick reading of your blood glucose level by placing a small drop of your blood on a disposable strip, which will be inserted into the device. The number on the screen will indicate your blood glucose level. If the reading is too high or too low, the paramedic will try to stabilise your condition with medication..
 - **Glucose Test Strips** - the disposable test strips used in conjunction with the Glucometer to determine blood sugar levels. 
 Intravenous Catheters & Needles - used to start IV procedures for a patient, whether to inject a medicine that is needed and setting up IV-ports for IV-drips. These catheters can vary in size depending on vein accessibility and other such factors.
 - **Venous Tourniquet**- a rubber/latex tourniquet used when attempting to find a vein, making it more prominent visibly so IV procedures can take place. 
@@ -132,5 +132,6 @@ Intravenous Catheters & Needles - used to start IV procedures for a patient, whe
 #### **Fluids**
 
 - **Isopropyl Alcohol (Topical - Bottled Liquid)** - used to prevent bacterial skin infections from minor cuts or scrapes. Used to clean needle puncture area's as well.
+- **Intravenous (IV)** -  to treat shock or dehydration
 
 <!-- tabs:end -->
