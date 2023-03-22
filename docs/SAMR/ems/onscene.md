@@ -14,15 +14,19 @@
 
 #### Mobile
 - Bandage - $75/Per Item
-- Painkiller - $75/Per Item
+- Painkiller - $175/Per Item
 - Splint - $175/Per Limb
-- Ambulance Ride - $150
-- Pick Up (Revive) - $175
+- Ambulance Ride - $1500
+- Pick Up (Revive) - $275
 
 
 
 #### At Hospital
-- Bandage - $50/Per Item
-- Painkiller - $50/Per Item
+- Bandage - $150/Per Item
+- Painkiller - $150/Per Item
 - Splint - $150/Per Limb
+- Dental - $50
 - X-Ray/MRI - $500
+- Typical Checkup - $75
+- Physical Therapy Sessions - $175/H ( 10 Minutes = 1 In Game Hour )
+- Psychiatric Therapy Sessions - $125/H ( 10 Minutes = 1 In Game Hour )

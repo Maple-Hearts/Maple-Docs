@@ -20,7 +20,7 @@
 - Signal 100 - All but Emergency Traffic
 
 # Codes
-- Code 0 - Game Crash
+- Code 0 - Swat Response
 - Code 1 - Ambulance Response, Priority
 - Code 2 - No Lights, No Siren
 - Code 3 - Lights and Siren
@@ -30,7 +30,7 @@
 - Code 7 - Briefing
 - Code 8 - Explosion
 - Code 9 - All-Unit Report (10-73)
-- Code 10 - Swat Response
+- Code 10 - Game Crash
 - Code 100 - Armed Robbery
 ​- Code 100-2 - Robbery
 - Code 200 - Prison Break (Swat Response Follows)
