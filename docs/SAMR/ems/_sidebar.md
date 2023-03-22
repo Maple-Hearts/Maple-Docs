@@ -11,4 +11,4 @@
         * [Cheat Sheet](SAMR/ems/cheatsheet.md "SAMS - Cheat Sheet")
     * [Fire]("SAMR/fire/home.md" "SAMR - Fire")
         * [Generalized Rules](SAMR/generalRules.md "SAFR - Rules")
-* [MHPD](MHPD/home.md "MHPD")
+* [MHSO](MHSO/home.md "MHSO")
