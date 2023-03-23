@@ -31,8 +31,8 @@
 - Code 8 - Explosion
 - Code 9 - All-Unit Report (10-73)
 - Code 10 - Game Crash
-- Code 100 - Armed Robbery
-​- Code 100/2 - Robbery
+- Code 100 - Armed Robbery​
+- Code 100-2 - Robbery
 - Code 200 - Prison Break (Swat Response Follows)
 
 # 10 Codes
