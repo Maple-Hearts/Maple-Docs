@@ -5,7 +5,13 @@
 
 ## Assessment
 The assessment is something that can be done as you are walking up on a scene by taking in the initial patient presentation. Everyone has heard of the ABCs in EMS and assessing a patient's ABCs you don't even have to touch them.
-Airway, Breathing & Circulation
+
+Airway: When you walk up to a patient and start talking to them, if they are conscious and see what is going on and what the problem is, and if they talk back to you or are having a hard time talking in general you know there is an airway problem. If they are unconscious, it’s simple to just RP check the patient’s airway. 
+
+Breathing: When assessing someone's breathing you can also easily do this by talking to them and usually by the way they are talking you can adequately tell if they are breathing ok or not. 
+
+Circulation: Circulation is essentially the presentation of the patient. Do they look pale? What’s their temperature?  What circulation means is the patient’s blood going throughout their body adequately. 
+
 When you walk up to a patient and start talking to them, if they are conscious see what is going on and what the problem is, and if they talk back to you or are having a hard time talking in general you then know there is an airway problem. If they are unconscious, it's simple to just RP check the patient's airway. If they are responding back to you, then you know they are breathing as well.
 
 Circulation is essentially the presentation of the patient. What circulation means is the patient's blood going through their body adequately
