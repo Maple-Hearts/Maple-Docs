@@ -141,3 +141,6 @@ Intravenous Catheters & Needles - used to start IV procedures for a patient, whe
 - **Intravenous (IV)** -  to treat shock or dehydration
 
 <!-- tabs:end -->
+
+
+?> ECG 12-Lead Lifepak 15 Usage - To begin usage of the Lifepak, Cut the patients shirt off, connect all 12 leads to the patients body, a diagram will be below, Check the Lifepak, and enable the built-in defibulator. It can shock a patient up to 360J(oules) for resuscitation or pace-maker usage in extreme arrhythmia situations (bradyarrhythmia or tachyarrhythmia). Once turned on, take the AED paddles out of the side pockets and put both hot sides together. This will allow the system to charge up, Set paddles on the patient's chest and click once. It will shock the patient one, if no 
