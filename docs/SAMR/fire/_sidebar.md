@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/ "Home")
+* [Rules](Rules/home.md "Rules")
+    * [Home](Rules/home.md "Rules - Home")
 * [SAMR](SAMR/home.md "SAMR")
     * [Home](SAMR/home.md "SAMR - Home")
     * [Chain Of Command](SAMR/chainofcommand.md "SAMR - Chain Of Command")
@@ -12,4 +14,4 @@
     * [Fire]("SAMR/fire/home.md" "SAMR - Fire")
         * [Generalized Rules](SAMR/generalRules.md "SAFR - Rules")
 * [MHSO](MHSO/home.md "MHSO")
-    * [10 Codes](MHSO/10codesidea.md "MHSO - 10 Codes - Idea")
+    * [10 Codes](MHSO/10codesidea.md "MHSO - 10 Codes")

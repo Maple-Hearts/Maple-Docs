@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/ "Home")
+* [Rules](Rules/home.md "Rules")
+    * [Home](Rules/home.md "Rules - Home")
 * [SAMR](SAMR/home.md "SAMR")
     * [Home](SAMR/home.md "SAMR - Home")
     * [Chain Of Command](SAMR/chainofcommand.md "SAMR - Chain Of Command")
