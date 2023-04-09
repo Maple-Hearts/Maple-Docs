@@ -1,6 +1,6 @@
 # Maple Hearts Rules
 
-?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but keep in mind that rules are subject to change without notice. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
+?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but **keep in mind that rules are subject to change without notice**. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
 
 !> We reserve the right to wipe any character data if you are deemed inactive.
 
@@ -53,4 +53,12 @@
     - Police, DOC, EMS, Doctors, Fire, and any other government official are not allowed to be corrupt. An example of such would be giving away or selling government-only equipment.
     - Make sure you separate your characters. They do not know each other, they do not know where your weed location is, or who your friends/enemies are. etc. Other characters you create are not your "cousin". They can't ever meet up, so that is extremely unrealistic.
     - Anything in Discord that starts with IC- is in character. I.e #ic-content & #ic-story-continuation
-    - 
+    - You are not allowed to have multiple characters that are affiliated with the same circle/gang. You must separate your rp.
+    - If a player has a camera of any sort on their character, they can use recordings as legal evidence, otherwise, they cannot.
+    - Serial Killers/Robots/Paranormal Characters, etc.. must be approved by the staff team via a Discord ticket.
+    - Indicating that you have no pulse three or more times, will result in the permanent death of your character.
+  - Donations
+    - All donations/purchases are permanent and non-refundable
+    - All purchases/donations are tied to your account and you will be asked what character you want the donation perks to. You cannot change your mind in the future once they are given or transfer them after.
+    - In a situation where a buyer is banned for violating the server rules, any purchases made by the buyer will not be refunded, remember that buyers are held responsible for their actions, just as any other player.
+    - In the instance of a chargeback, you will not be allowed to appeal any bans resulting from violating server rules.
