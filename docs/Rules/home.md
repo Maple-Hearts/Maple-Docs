@@ -26,6 +26,34 @@
 
 ---
 
+## Communication
+- ### Basic Procedures
+  - Refusal to communicate with other players in English only will result in a ban.
+  - Players are allowed to speak to each other in another language through personal messages or in other personal, non-public spaces.
+  - Any kind of advertising of other GTA V communities or cyber threats is forbidden on all servers and channels. Malicious advertisements or cyber threats aimed at hurting the community will result in a permanent ban.
+  - Do not spam identical or meaningless messages multiple times, including /me, do not spam server commands multiple times, and do not spam game-unrelated irritating sounds using voice chat.
+  - In-character offensive language and threats are allowed, however, insulting another character gives them a roleplay reason to take hostile action against your character. ***Racism/Sexual harassment is not allowed in character or outside character.***
+  - Any kind of out-of-character offensive language, threats or racism is prohibited. You cannot make death threats to living people, death threats aimed at living people will result in much harsher punishments.
+  - Excessively screaming swear words at people or a person is not tolerated.
+  - The use of voice/mic changers are allowed, as long as they are high quality and don't ruin the experience.
+  - A staff member has the right to request any player to stop offending another person if the staff member thing's that the in-character exception for offensive language is being abused in any sort of way.
+
+- ### Out Of Character
+  - OOC talk can be done in Discord and is prohibited while in the city.
+  - Do not use any immersion-breaking words, like "My Computer", "Pressed The Wrong Key", "My Mic Is Bugging Out", or "I have a body cam of it (When you are a civ without a body cam..)"
+  - You are not allowed to mention other "cities/counties" under any circumstance.
+  - Referring to other characters, whether it be your character or not, as "cousins, alter ego, brother, etc" is never allowed.
+  - Talking "spiritually" makes no sense and is a form of OOC terminology.
+  - Never mention the server rules in character. 
+  - You WILL see popular streamers on the server, and under no circumstances should you ever come into the city looking for that person, and addressing them by an OOC name. You will be instantly banned without question.
+  - Please keep the flow of roleplay going, if any sort of bug happens ( Robbery script bugging out, cars being "ghosted" or going into tornado mode, saying a script is "scuffed"), simply report it afterwords. keep the scene going, find ways around it.
+  - Using words as "weird" or "strange" to describe someone's poor quality of roleplay is not allowed, help them out, in an OOC channel.
+  - In-character beef stays IN CHARACTER. If seen beefing outside of the city, actions will be enforced.
+  - 
+
+
+---
+
 ## Deathmatching (RDM/VDM)
   - RDM - Random Death-Match
     - RDM is not allowed by any means, In short, RDM is Killing/Attempting to kill someone without intending to roleplay or without proper initiation.
@@ -45,7 +73,7 @@
 ---
 
 ## Account & Donations
-  - Accounts & Characters
+  - ### Accounts & Characters
     - Anything that occurs on your account is your responsibility.
     - Should you lose access to your Discord/CFX/Steam/Rockstar account, we are not able to transfer the Whitelist status to another discord.
     - It is prohibited to buy or sell any account and/or items from another user other than the official donation packages. 
@@ -57,8 +85,19 @@
     - If a player has a camera of any sort on their character, they can use recordings as legal evidence, otherwise, they cannot.
     - Serial Killers/Robots/Paranormal Characters, etc.. must be approved by the staff team via a Discord ticket.
     - Indicating that you have no pulse three or more times, will result in the permanent death of your character.
-  - Donations
+  - ### Donations
     - All donations/purchases are permanent and non-refundable
     - All purchases/donations are tied to your account and you will be asked what character you want the donation perks to. You cannot change your mind in the future once they are given or transfer them after.
     - In a situation where a buyer is banned for violating the server rules, any purchases made by the buyer will not be refunded, remember that buyers are held responsible for their actions, just as any other player.
     - In the instance of a chargeback, you will not be allowed to appeal any bans resulting from violating server rules.
+
+---
+
+## Cheating & Exploiting
+  - It's strictly prohibited to use any game modifications and enhancements that can give a player an unfair advantage, such as a duplication glitch, an increase of speed using a specific walk style, night visual packs, health regen, teleport glitches, any 3rd party software ( Including but not limited to an external crosshair, cheats, mod menus, macros, etc.. )
+  - Exploiting emotes to get through walls will get you banned without question.
+  - Macroing is the act of using third-party software or hardware enhancements that enable the player to perform automated actions. Macroing to perform activities for a financial benefit or to circumvent the AFK script is a bannable offense. All property and experience gained through macroing will be revoked
+  - Exploiting client and/or server bugs is strictly prohibited. Abusing an exploit will result in a ban. Anything gained from an exploit will also be removed.
+  - All bugs must be reported on Discord via a Ticket!
+  - Abuse of game physics is not allowed. Including but not limited to, Bunny hopping, Spam punching, Combat rolling, Abuse of job powers, Speed boosting, and emote exploiting.
+  - 
