@@ -40,7 +40,7 @@
   - Don't use `/me` & `/do` to communicate with others, that is what a `/says` is used for. If seen doing so, there will be only one warning.
   - You can not lie through a `/me` & `/do` whatsoever. If your character is trying to lie, state that.
   - The use of `/says` is not to be used for laziness to not talk. You must be vocal unless your character has a known backstory or a major event resulting in the inability to speak.
-  - The use of `says` should not be used to alert cops/players in a area if you are for example being kidnapped
+  - The use of `/says` should not be used to alert cops/players in an area if you are for example being kidnapped
 
 - ### Out Of Character
   - OOC talk can be done in Discord and is prohibited while in the city.
@@ -129,11 +129,11 @@
      - **Powergaming**: Roleplaying with mechanics/abilities that do not exist or forcing someone else into a situation where they do not have choices.
      - Forcing someone to use a crafting/buy station is considered powergaming
      - Use of vehicles with unbreakable windows, extremely small windows, covered fronts, or provide an advantage in shootouts can not be used for criminal activity.
-     - Roleplaying something unrealistically ridiculous or forcing roleplay actions on other players by using the /me command or even forcing players to do a emote is not allowed and is classed as power gaming.
+     - Roleplaying something unrealistically ridiculous or forcing roleplay actions on other players by using the `/me` command or even forcing players to do a emote is not allowed and is classed as power gaming.
      - You must never spam the attacking/melee button on someone.
      - Using a vehicle to flip over another vehicle.
      - Unnecessarily escorting, cuffing, or carrying someone. This includes doing these to gain an advantage over someone who is not in the downed state.
      - Putting a stash or other furniture outside the shell of a player-owned property so it is no longer visible is not allowed.
-     - Using /me to force RP in your favor rather than leaving it open-ended for all parties involved.
-     - Torture RP - You must receive consent from the other party that you are torturing through a /ooc to ensure they are ok with the actions happening to their character. If the player you are torturing responds with “/ooc Not ok with that” etc. you must attempt to end the scenario promptly without pursuing more torture RP.
+     - Using `/me` to force RP in your favor rather than leaving it open-ended for all parties involved.
+     - Torture RP - You must receive consent from the other party that you are torturing through a `/ooc` to ensure they are ok with the actions happening to their character. If the player you are torturing responds with `/ooc Not ok with that` etc. you must attempt to end the scenario promptly without pursuing more torture RP.
      - Under no circumstances can a criminal force his victim to sell his property, such as houses, vehicles or businesses. Unless it's an approved scene by staff.
