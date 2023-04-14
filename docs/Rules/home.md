@@ -104,7 +104,7 @@
     - Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes, and they cannot take hostile action against the party responsible for their death for 60 minutes. They also lose every rp reason to take hostile action against the party responsible for their death.
     - If you leave a scenario, and it has ended, then you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc.
     - Another player is not able to decide when another pk's their character, this is decided upon OOC and once agreed they can commence with the scenario. You are allowed to plan out a scenario OOC if you decide on permaing your character. Your character can not just randomly be deleted without reasoning.
-  - ## Deathmatching (RDM/VDM)
+  - ### Deathmatching (RDM/VDM)
     - Random Deathmatch (RDM)
       - RDM is not allowed by any means, In short, RDM is the act of killing or hurting another player or damaging their property intentionally by the use of any force without having a valid in-character reason to do that.
       - You are allowed to attack another player if they try to hurt you or damage your property intentionally, if they ignore your threats and attempt to resist or if they try to take hostile action against you.
@@ -120,3 +120,20 @@
           1) Someone insulted you, so you ran them over
           2) Someone accidentally hit your car, so you ram them with your vehicle multiple times
           3) Someone robbed you beforehand, so you ram their vehicle to stop them and force them out of it.
+   - ### Metagaming, Powergaming, Torture RP
+     - This is when you use real-life information gained from outside the bounds of the game to benefit your character's knowledge in-game, even though they would not have known this information. For example, watching a stream to find someone’s location to use for your benefit.
+     - Metagaming to gain an in-game advantage, for example, requesting help from your allies through out-of-character channels, will result in more severe punishments, than accidental metagaming, that serves no benefit to the player, such as calling a stranger by his character name.
+     - Whilst you are in the city, under no circumstances, are you allowed to be in a live stream (such as, but not limited to, Discord, Twitch, Facebook Gaming & Youtube) of someone else who is also in the city.
+     - Use of third-party VOIP is strictly prohibited while you are connected to the server. (Skype, Discord, Zoom, etc.)
+     - Demanding someone to withdraw money from their bank account via an ATM, bank or phone is not allowed.
+     - **Powergaming**: Roleplaying with mechanics/abilities that do not exist or forcing someone else into a situation where they do not have choices.
+     - Forcing someone to use a crafting/buy station is considered powergaming
+     - Use of vehicles with unbreakable windows, extremely small windows, covered fronts, or provide an advantage in shootouts can not be used for criminal activity.
+     - Roleplaying something unrealistically ridiculous or forcing roleplay actions on other players by using the /me command or even forcing players to do a emote is not allowed and is classed as power gaming.
+     - You must never spam the attacking/melee button on someone.
+     - Using a vehicle to flip over another vehicle.
+     - Unnecessarily escorting, cuffing, or carrying someone. This includes doing these to gain an advantage over someone who is not in the downed state.
+     - Putting a stash or other furniture outside the shell of a player-owned property so it is no longer visible is not allowed.
+     - Using /me to force RP in your favor rather than leaving it open-ended for all parties involved.
+     - Torture RP - You must receive consent from the other party that you are torturing through a /ooc to ensure they are ok with the actions happening to their character. If the player you are torturing responds with “/ooc Not ok with that” etc. you must attempt to end the scenario promptly without pursuing more torture RP.
+     - Under no circumstances can a criminal force his victim to sell his property, such as houses, vehicles or businesses. Unless it's an approved scene by staff.
