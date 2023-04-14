@@ -35,8 +35,12 @@
   - In-character offensive language and threats are allowed, however, insulting another character gives them a roleplay reason to take hostile action against your character. ***Racism/Sexual harassment is not allowed in character or outside character.***
   - Any kind of out-of-character offensive language, threats or racism is prohibited. You cannot make death threats to living people, death threats aimed at living people will result in much harsher punishments.
   - Excessively screaming swear words at people or a person is not tolerated.
-  - The use of voice/mic changers are allowed, as long as they are high quality and don't ruin the experience.
+  - The use of voice/mic changers is allowed, as long as they are high quality and don't ruin the experience.
   - A staff member has the right to request any player to stop offending another person if the staff member thing's that the in-character exception for offensive language is being abused in any sort of way.
+  - Don't use `/me` & `/do` to communicate with others, that is what a `/says` is used for. If seen doing so, there will be only one warning.
+  - You can not lie through a `/me` & `/do` whatsoever. If your character is trying to lie, state that.
+  - The use of `/says` is not to be used for laziness to not talk. You must be vocal unless your character has a known backstory or a major event resulting in the inability to speak.
+  - The use of `says` should not be used to alert cops/players in a area if you are for example being kidnapped
 
 - ### Out Of Character
   - OOC talk can be done in Discord and is prohibited while in the city.
@@ -46,30 +50,18 @@
   - Talking "spiritually" makes no sense and is a form of OOC terminology.
   - Never mention the server rules in character. 
   - You WILL see popular streamers on the server, and under no circumstances should you ever come into the city looking for that person, and addressing them by an OOC name. You will be instantly banned without question.
-  - Please keep the flow of roleplay going, if any sort of bug happens ( Robbery script bugging out, cars being "ghosted" or going into tornado mode, saying a script is "scuffed"), simply report it afterwords. keep the scene going, find ways around it.
-  - Using words as "weird" or "strange" to describe someone's poor quality of roleplay is not allowed, help them out, in an OOC channel.
+  - Please keep the flow of roleplay going, if any sort of bug happens ( Robbery script bugging out, cars being "ghosted" or going into tornado mode, saying a script is "scuffed"), simply report it afterward. keep the scene going, and find ways around it.
+  - Using words such as "weird" or "strange" to describe someone's poor quality of roleplay is not allowed, help them out, in an OOC channel.
   - In-character beef stays IN CHARACTER. If seen beefing outside of the city, actions will be enforced.
-  - 
 
-
----
-
-## Deathmatching (RDM/VDM)
-  - RDM - Random Death-Match
-    - RDM is not allowed by any means, In short, RDM is Killing/Attempting to kill someone without intending to roleplay or without proper initiation.
-    - All deadly actions need to be slowly done, after some time after the initial start of the scene. 
-    - Deadly actions have to be roleplayed out, there is no such thing as Killing on-site, it's seen as a form of RDM. 
-    - You **MUST** initiate proper roleplay for every kill.
-    - **Examples**:
-      1) Someone talked trash towards you, so you withdraw a firearm and shoot them. That is RDM.
-      2) You provoke a fist fight then proceed to pull out a firearm and kill the person you provoked
-  - VDM - Vehicle Death-Match
-    - VDM is not allowed by any means, In short, VDM is using a vehicle as an intentional weapon to kill someone.
-    - **Examples**:
-        1) Someone insulted you, so you ran them over
-        2) Someone accidentally hit your car, so you ram them with your vehicle multiple times
-        3) Someone robbed you beforehand, so you ram their vehicle to stop them and force them out of it.
-
+- ### Reports
+  - Players should use the Discord ticketing system to report players, whether it be a past or present incident.
+  - All necessary information, evidence, videos, or screenshots must be given with the report.
+  - Please allow up to a week for your report to be processed, though usual turnaround times are around 24 hours.
+  - If a player thinks that a staff member is abusing their powers, the player can submit a staff report using the Discord Ticket system.
+  - Staff members may request all players to halt an ongoing scene if the roleplay situation breaks any of the server rules. This will be done via a Discord Ticket with everyone added to the ticket.
+  - Personally messaging a staff member will not result in a satisfactory response, you may be ignored or forwarded to a ticket.
+ 
 ---
 
 ## Account & Donations
@@ -100,4 +92,32 @@
   - Exploiting client and/or server bugs is strictly prohibited. Abusing an exploit will result in a ban. Anything gained from an exploit will also be removed.
   - All bugs must be reported on Discord via a Ticket!
   - Abuse of game physics is not allowed. Including but not limited to, Bunny hopping, Spam punching, Combat rolling, Abuse of job powers, Speed boosting, and emote exploiting.
-  - 
+
+---
+
+## Roleplay Rules
+  - ### Off-Limits Areas
+    - Fort Zancudo & Aircraft carriers are off-limits, anyone caught violating this rule will be shot on sight. You would not have access to this place in real life, as its a highly secured area.
+  - ### New Life Rule (NLR)
+    - New Life Rule: Triggered once you are incapacitated and respawn at the hospital. The cause of death is irrelevant, Getting yourself downed is not considered as dying, therefore once you get treaded by EMS, the new life rule is not triggered. You lose all memory from the scenario if you respawn by using "E"
+    - After you are incapacitated, not downed, you cannot talk about your death through in-character channels unless an individual/party informs you through RP. ( Make sure to have it clipped. )
+    - Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes, and they cannot take hostile action against the party responsible for their death for 60 minutes. They also lose every rp reason to take hostile action against the party responsible for their death.
+    - If you leave a scenario, and it has ended, then you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc.
+    - Another player is not able to decide when another pk's their character, this is decided upon OOC and once agreed they can commence with the scenario. You are allowed to plan out a scenario OOC if you decide on permaing your character. Your character can not just randomly be deleted without reasoning.
+  - ## Deathmatching (RDM/VDM)
+    - RP needs to be initiated before a shootout begins
+    - 
+  - Random Deathmatch (RDM)
+    - RDM is not allowed by any means, In short, RDM is the act of killing or hurting another player or damaging their property intentionally by the use of any force without having a valid in-character reason to do that.
+    - All deadly actions need to be slowly done, after some time after the initial start of the scene. 
+    - Deadly actions have to be roleplayed out, there is no such thing as Killing on-site, it's seen as a form of RDM. 
+    - You **MUST** initiate proper roleplay for every kill.
+    - **Examples**:
+      1) Someone talked trash towards you, so you withdraw a firearm and shoot them. That is RDM.
+      2) You provoke a fist fight then proceed to pull out a firearm and kill the person you provoked
+  - Vehicle Deathmatch (VDM)
+    - VDM: The act of killing, hurting another player or damaging their property intentionally by using a vehicle without having a valid in-character reason to do that. Intentionally running over another individual with a valid in-character reason can still be considered LQRP.
+    - **Examples**:
+        1) Someone insulted you, so you ran them over
+        2) Someone accidentally hit your car, so you ram them with your vehicle multiple times
+        3) Someone robbed you beforehand, so you ram their vehicle to stop them and force them out of it.
