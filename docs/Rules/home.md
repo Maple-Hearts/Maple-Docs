@@ -105,19 +105,18 @@
     - If you leave a scenario, and it has ended, then you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc.
     - Another player is not able to decide when another pk's their character, this is decided upon OOC and once agreed they can commence with the scenario. You are allowed to plan out a scenario OOC if you decide on permaing your character. Your character can not just randomly be deleted without reasoning.
   - ## Deathmatching (RDM/VDM)
-    - RP needs to be initiated before a shootout begins
-    - 
-  - Random Deathmatch (RDM)
-    - RDM is not allowed by any means, In short, RDM is the act of killing or hurting another player or damaging their property intentionally by the use of any force without having a valid in-character reason to do that.
-    - All deadly actions need to be slowly done, after some time after the initial start of the scene. 
-    - Deadly actions have to be roleplayed out, there is no such thing as Killing on-site, it's seen as a form of RDM. 
-    - You **MUST** initiate proper roleplay for every kill.
-    - **Examples**:
-      1) Someone talked trash towards you, so you withdraw a firearm and shoot them. That is RDM.
-      2) You provoke a fist fight then proceed to pull out a firearm and kill the person you provoked
-  - Vehicle Deathmatch (VDM)
-    - VDM: The act of killing, hurting another player or damaging their property intentionally by using a vehicle without having a valid in-character reason to do that. Intentionally running over another individual with a valid in-character reason can still be considered LQRP.
-    - **Examples**:
-        1) Someone insulted you, so you ran them over
-        2) Someone accidentally hit your car, so you ram them with your vehicle multiple times
-        3) Someone robbed you beforehand, so you ram their vehicle to stop them and force them out of it.
+    - Random Deathmatch (RDM)
+      - RDM is not allowed by any means, In short, RDM is the act of killing or hurting another player or damaging their property intentionally by the use of any force without having a valid in-character reason to do that.
+      - You are allowed to attack another player if they try to hurt you or damage your property intentionally, if they ignore your threats and attempt to resist or if they try to take hostile action against you.
+      - All deadly actions need to be slowly done, after some time after the initial start of the scene. 
+      - Deadly actions have to be roleplayed out, there is no such thing as Killing on-site, it's seen as a form of RDM. 
+      - You **MUST** initiate proper roleplay for every kill.
+      - **Examples**:
+        1) Someone talked trash towards you, so you withdraw a firearm and shoot them. That is RDM.
+        2) You provoke a fist fight then proceed to pull out a firearm and kill the person you provoked
+    - Vehicle Deathmatch (VDM)
+      - VDM: The act of killing, hurting another player or damaging their property intentionally by using a vehicle without having a valid in-character reason to do that. Intentionally running over another individual with a valid in-character reason can still be considered LQRP.
+      - **Examples**:
+          1) Someone insulted you, so you ran them over
+          2) Someone accidentally hit your car, so you ram them with your vehicle multiple times
+          3) Someone robbed you beforehand, so you ram their vehicle to stop them and force them out of it.
