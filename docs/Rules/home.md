@@ -11,7 +11,6 @@
 ## General Rules
 
 - It is your responsibility to remain informed of any rule changes listed here or in Discord. (They are subject to change without notice.)
-- You are not allowed to play any content that is under copyright protection (DCMA), such as movies on the TV and DMCA music on the boombox.
 - Do not influence others to break rules, you will receive a similar punishment.
 - Do not use any real-life events in the city. No suicide RP, real-life terrorism threats, pandemics or mental illnesses, not limited to these examples.
 - No racism, trolling, homophobia and sexism.
@@ -22,7 +21,7 @@
 - Attacking members in other Discord servers, YouTube, Twitter, etc. is prohibited and punishable.
 - You cannot play OOC content, such as RP montages and Twitch streams, on the in-game TVs.
 - You may not steal a wheelchair from any other player. 
-- 
+- Common courtesy - Please keep in mind, this is a game, that people from all over the world play. There will be headaches, there will be lag situations, and more. At the end of the day we are all here to have fun.
 - Basic Decency & Respect
     - While our goal is to foster a roleplaying experience free from constraints, We realize we must protect all members of our community regardless of gender, sexual orientation, age, etc. We strive to create a welcoming, friendly, and peaceful atmosphere for all members. A community that members can be proud to say they are a part of. Maple Hearts takes a hard stance against any derogatory terms or actions against its members. We will enforce a strict code of conduct within our community and act on distasteful items, for example, and not limited to Sexual Harassment, Excessive Name-Calling And/Or Shaming, Disrespectful Attacks on a Personal Level, etc.
     - At the end of the day, we are all here to enjoy a world outside of the one we live in. We are here to escape to a world where we can create a new life with amazing experiences. Simply put, respect one another. Have justification and reasoning for your actions. Simply saying "It's My Character" will result in being banned without question. It's not a valid response.
@@ -31,11 +30,11 @@
 
 ## Ban Process
 
-Ban duration is at the discretion of the staff members, generally speaking the process for a ban is as follows:
+Ban duration is at the discretion of the staff members, generally speaking, the process for a ban is as follows:
 
-1) First Offense = 2 Day Ban
-2) Second Offense = 1 Week Ban
-3) Third Offense = 2 Week Ban
+1) First Offense = 2-Day Ban
+2) Second Offense = 1-Week Ban
+3) Third Offense = 2-Week Ban
 4) Fourth Offense = Permanent Ban
 
 - More severe offenses can result in a permanent ban and deletion of character data. Examples of these may include hacking, exploiting, toxic behavior, abusive/malicious behavior, and mass VDM or RDM.
@@ -112,7 +111,7 @@ Ban duration is at the discretion of the staff members, generally speaking the p
 ---
 
 ## Private Discord
-  - All Maple Hearts related discords featuring in characters channels must follow all the rules and guidelines stated here.
+  - All Maple Hearts related discords featuring in-characters' channels must follow all the rules and guidelines stated here.
   - Business discord's must send their link in a ticket to get added to the service directory
   - Gangs with discords must give their invite links to the faction manager
   - All Maple Heart's staff Moderators and above, must have access to ban, kick, timeout, etc. In all discords. ( refusal will effect your business or gang )
@@ -129,16 +128,17 @@ Ban duration is at the discretion of the staff members, generally speaking the p
     - Refusing to respond to EMS may result in a kick from the server.
     - Strictly no salty and toxic behavior. Examples include repeated mag dumping into a downed body, playing loud music, screaming over the microphone, spitting and emoting on downed bodies, "Spinning till they don't wake up" and Twitter drama.
     - No hospital camping to rub salt in the wounds if you win or lose a fight.
-    - Scenes are to be used to enhance RP through giving context to a scene, not to paint "MHSOK" everywhere!
-    - Criminals must provide a proper reasoning during initiation before shooting police officers, especially during mag dump season.
+    - Scenes are to be used to enhance RP by giving context to a scene, not to paint "MHSOK" everywhere!
+    - Criminals must provide proper reasoning during initiation before shooting police officers, especially during mag dump season.
     - Randomly blowing up vehicles is prohibited without proper initiation.
-    - Players can be identified by their face, outfit, or individual clothing items up to 24 hours after a crime or other event. Stripping off clothing items after a crime or other interaction can still warrant a detainment by Police for questioning if they have probably cause or reasonable suspicion that you were involved in a crime or other event. We recommend changing your entire outfit before and after a crime and refraining from wearing gang colors during a crime as that would implicate the entire group.
+    - Players can be identified by their face, outfit, or individual clothing items up to 24 hours after a crime or other event. Stripping off clothing items after a crime or other interaction can still warrant a detainment by Police for questioning if they have probable cause or reasonable suspicion that you were involved in a crime or other event. We recommend changing your entire outfit before and after a crime and refraining from wearing gang colors during a crime as that would implicate the entire group.
     - Do not impersonate law enforcement officers or medical staff. It is strictly prohibited. Please do not wear any clothing items that belong to police or medical staff unless your job permits it.
     - Do not kidnap, rob, or assault EMS or medical staff for any reason.
     - Hostages cannot be friends, associates or imaginary.
+    - Gun Play over Role Play is not allowed in any form.
     - ### Value of Life
-      - Description: You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times you must value your life as if it were your last. If you are at the clear disadvantage, for example, a gun pointed to the back of your head whilst you are looking the other direction, you must comply with their demands.
-      - If you are outnumbered 3 to 1 you must comply. This does not mean that you do not have an option to try and escape. When possible and in a correction situation, you have the option to try and escape.
+      - Description: You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times you must value your life as if it were your last. If you are at a clear disadvantage, for example, a gun pointed at the back of your head whilst you are looking in the other direction, you must comply with their demands.
+      - If you are outnumbered 3 to 1 you must comply. This does not mean that you do not have the option to try and escape. When possible and in a correction situation, you have the option to try and escape.
       - A bad example of an attempt to escape is if are being held hostage in front of a bank and decide to run away even though the person has a firearm ready.
     - ### LQRP/FRP Examples
       - Spectating any shootout
@@ -152,13 +152,13 @@ Ban duration is at the discretion of the staff members, generally speaking the p
       - Using a tazer to pop a tire of a vehicle, Spam tackling people over and over
       - Walking up to staff and asking about tickets made in discord, while being in city.
   - ### Off-Limits Areas
-    - Fort Zancudo & Aircraft carriers are off-limits, anyone caught violating this rule will be shot on sight. You would not have access to this place in real life, as its a highly secured area.
+    - Fort Zancudo & Aircraft carriers are off-limits, anyone caught violating this rule will be shot on sight. You would not have access to this place in real life, as it's a highly secured area.
   - ### Character Customization
     - Players must create a realistic human character using the customization system.
     - Do not dress your character to resemble an alien or animal.
     - Nude models or portions of models are prohibited in public areas and can only be used at private vents or locations.
     - Do not make parts of your body invisible or intentionally glitched.
-    - Character names add a level of immersion and must avoid being disruptive. Examples of command inappropriate or disruptive RP names include but are not limited to:
+    - Character names add a level of immersion and must avoid being disruptive. Examples of command-inappropriate or disruptive RP names include but are not limited to:
       - Names that reference known people, characters, brands, places, or icons.
       - Names that reference slang terms, offensive language, or are just unoriginal.
       - Names that consist of multiple words
