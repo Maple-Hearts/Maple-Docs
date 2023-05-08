@@ -32,10 +32,11 @@
 
 Ban duration is at the discretion of the staff members, generally speaking, the process for a ban is as follows:
 
-1) First Offense = 2-Day Ban
-2) Second Offense = 1-Week Ban
-3) Third Offense = 2-Week Ban
-4) Fourth Offense = Permanent Ban
+1) First Offense = 2-Hour - 12-Hours Ban
+1) Second Offense = 2-Day Ban
+2) Third Offense = 1-Week Ban
+3) Fourth Offense = 2-Week Ban
+4) Fifth Offense = Permanent Ban
 
 - More severe offenses can result in a permanent ban and deletion of character data. Examples of these may include hacking, exploiting, toxic behavior, abusive/malicious behavior, and mass VDM or RDM.
 
@@ -47,8 +48,8 @@ Ban duration is at the discretion of the staff members, generally speaking, the 
   - Players are allowed to speak to each other in another language through personal messages or in other personal, non-public spaces.
   - Any kind of advertising of other GTA V communities or cyber threats is forbidden on all servers and channels. Malicious advertisements or cyber threats aimed at hurting the community will result in a permanent ban.
   - Do not spam identical or meaningless messages multiple times, including /me, do not spam server commands multiple times, and do not spam game-unrelated irritating sounds using voice chat.
-  - In-character offensive language and threats are allowed, however, insulting another character gives them a roleplay reason to take hostile action against your character. ***Racism/Sexual harassment is not allowed in character or outside character.***
-  - Any kind of out-of-character offensive language, threats or racism is prohibited. You cannot make death threats to living people, death threats aimed at living people will result in much harsher punishments.
+  - In-character offensive language and threats are allowed, however, insulting another character gives them a roleplay reason to take hostile action against your character. ***Racism/Sexual/Transphobia harassment is not allowed in character or outside character. ( Like Transformer, Porch Monkey, Retard, Trannie, etc.. )***
+  - Any kind of out-of-character offensive language, threats, transphobia or racism is prohibited. You cannot make death threats to living people, death threats aimed at living people will result in much harsher punishments.
   - Excessively screaming swear words at people or a person is not tolerated.
   - The use of voice/mic changers is allowed, as long as they are high quality and don't ruin the experience.
   - A staff member has the right to request any player to stop offending another person if the staff member thing's that the in-character exception for offensive language is being abused in any sort of way.
