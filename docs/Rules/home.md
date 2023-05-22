@@ -1,6 +1,6 @@
 # Maple Hearts Rules
 
-?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but **keep in mind that rules are subject to change without notice**. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
+?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but **keep in mind that rules are subject to change at nearly any time, a announcement will be given when a rule change occurs**. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
 
 !> We reserve the right to wipe any character data if you are deemed inactive.
 
