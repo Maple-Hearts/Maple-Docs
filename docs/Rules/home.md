@@ -1,6 +1,6 @@
 # Maple Hearts Rules
 
-?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but **keep in mind that rules are subject to change at nearly any time, a announcement will be given when a rule change occurs**. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
+?> These are the rules enforced in Maple Hearts. These rules are crucial in ensuring a fair and realistic roleplay experience. We hope the rules listed outline everything but **keep in mind that rules are subject to change at nearly any time, A announcement will be given when a rule change occurs**. If you have any questions or queries, feel free to contact a staff member through Discord via a ticket. 
 
 !> We reserve the right to wipe any character data if you are deemed inactive.
 
@@ -10,7 +10,7 @@
 
 ## General Rules
 
-- It is your responsibility to remain informed of any rule changes listed here or in Discord. (They are subject to change without notice.)
+- It is your responsibility to remain informed of any rule changes listed here or in Discord.
 - Do not influence others to break rules, you will receive a similar punishment.
 - Do not use any real-life events in the city. No suicide RP, real-life terrorism threats, pandemics or mental illnesses, not limited to these examples.
 - No racism, trolling, homophobia and sexism.
@@ -52,7 +52,7 @@ Ban duration is at the discretion of the staff members, generally speaking, the 
   - Any kind of out-of-character offensive language, threats, transphobia or racism is prohibited. You cannot make death threats to living people, death threats aimed at living people will result in much harsher punishments.
   - Excessively screaming swear words at people or a person is not tolerated.
   - The use of voice/mic changers is allowed, as long as they are high quality and don't ruin the experience.
-  - A staff member has the right to request any player to stop offending another person if the staff member thing's that the in-character exception for offensive language is being abused in any sort of way.
+  - A staff member has the right to request any player to stop offending another person if the staff member think's that the in-character exception for offensive language is being abused in any sort of way.
   - Don't use `/me` & `/do` to communicate with others, that is what a `/says` is used for. If seen doing so, there will be only one warning.
   - You can not lie through a `/me` & `/do` whatsoever. If your character is trying to lie, state that.
   - The use of `/says` is not to be used for laziness to not talk. You must be vocal unless your character has a known backstory or a major event resulting in the inability to speak.
@@ -115,7 +115,7 @@ Ban duration is at the discretion of the staff members, generally speaking, the 
   - All Maple Hearts related discords featuring in-characters' channels must follow all the rules and guidelines stated here.
   - Business discord's must send their link in a ticket to get added to the service directory
   - Gangs with discords must give their invite links to the faction manager
-  - All Maple Heart's staff Moderators and above, must have access to ban, kick, timeout, etc. In all discords. ( refusal will effect your business or gang )
+  - All Maple Heart's staff Moderators and above, must have access to ban, kick, timeout, etc. In all discords. ( refusal will Affect your business or gang )
   - Any Discord related to Maple Hearts with over 100 members must be owned by a Maple Hearts Admin+
   - You cannot remove a staff member from a Maple Hearts related discord via kick or ban. ( Unless Management states other wise )
   - You must be able to provide proper and full screenshots of discord conversations if staff is to request for them as evidence for a report/ticket.
@@ -124,7 +124,7 @@ Ban duration is at the discretion of the staff members, generally speaking, the 
 
 ## Roleplay Rules
   - ### Quality
-    - Please refrain from playing "money simulator". This can also come in the form of not interacting with other individuals and prioritizing monetary gains rather then interactions
+    - Please refrain from playing "money simulator". This can also come in the form of not interacting with other individuals and prioritizing monetary gains rather than interactions
     - Cop baiting is a great form of LQRP. This is where you purposefully attempt to bait Police Officers into a scenario without any RP behind it. Ex. Hitting a cop car to have them chase you to an ambush. 
     - Refusing to respond to EMS may result in a kick from the server.
     - Strictly no salty and toxic behavior. Examples include repeated mag dumping into a downed body, playing loud music, screaming over the microphone, spitting and emoting on downed bodies, "Spinning till they don't wake up" and Twitter drama.
