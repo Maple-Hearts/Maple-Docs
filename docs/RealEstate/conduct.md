@@ -1,6 +1,9 @@
-MapleHearts Real Estate 
-Conduct & Rights
-Duties of agents  
+# MapleHearts Real Estate 
+## Conduct & Rights
+
+### Duties of agents  
+
+
 An agent is required to:  
 - **Act on behalf of his principal**. Thus, losses suffered by the principal if his agent fails to  act are recoverable.  
 - **Obey all lawful and reasonable instructions**, and carry out instructions with reasonable  care and skill.  
@@ -24,7 +27,7 @@ An agent is required to:
     - not to delegate unless authorized to do so;  
     - to keep proper accounts and to pay to his principal money received on his behalf.  
 
-## Rights of agents  
+### Rights of agents  
 Three (3) rights may exist.  
 1) **Remuneration** 
     Agents who render services usually charge according to the time spent on such services. Agents  who are employed to achieve a result, such as a sale usually charge fees on a commission basis.  Estate agents fall into the latter category and so usually receive no remuneration for work done  where the result has not been achieved.
@@ -49,7 +52,7 @@ Unless otherwise agreed, A is entitled to a lien on all P’s property that come
     All agents have a particular lien, that is, the right to hold the property until all A’s claims against  P under the agency have been met. Some agents (such as solicitors, bankers and stockbrokers)  expressly or by custom have a general lien, that is, a right arising to protect A’s claims against P,  whether related to the agency or not.  
 
 
-## Termination of agency  
+### Termination of agency  
 A contract of agency may be terminated, like any other contract, by agreement, performance,  repudiatory breach (fundamental breach of a contract that it permits the distressed party to terminate  performance of the contract, in addition to entitling that party to sue for damages) or frustration.  
 
 P may dismiss A at any time: depending on the terms of the agreement, this may constitute a  breach of contract giving rise to damages. However, since agency is a personal relationship, the  court will not order specific performance. Agency is also terminated in the following ways: 
