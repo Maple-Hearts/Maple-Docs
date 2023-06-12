@@ -108,5 +108,5 @@
     - Penthouse `$1,000,000 - $1,500,000``
 
 ```pdf
-AllShellsSubPack.pdf
+https://github.com/Maple-Hearts/Maple-Docs/blob/master/docs/AllShellsSubPack.pdf
 ```
