@@ -105,7 +105,7 @@
     - Three Story `$25,000,000`
 
 - Middle Of City
-    - Penthouse `$1,000,000 - $1,500,000``
+    - Penthouse `$1,000,000 - $1,500,000`
 
 ```pdf
 AllShellsSubPack.pdf
