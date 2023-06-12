@@ -13,3 +13,5 @@
     * [Fire]("SAMR/fire/home.md" "SAMR - Fire")
         * [Generalized Rules](SAMR/generalRules.md "SAFR - Rules")
 * [MHSO](MHSO/home.md "MHSO")
+    * [10 Codes](MHSO/10codes.md "MHSO - 10 Codes")
+* [RealEstate](RealEstate/home.md "Real Estate")
