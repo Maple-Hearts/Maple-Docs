@@ -1,3 +1,3 @@
 # MHPD
 
-> Maple Hearts Police Department
+> Maple Hearts Department of Justice

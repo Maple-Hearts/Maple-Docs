@@ -1,3 +1,22 @@
+
+EMT & Paramedic Duties
+
+- Responding to 911 calls
+- Providing first aid, CPR and resuscitation
+- Assessing a patient’s health and current condition
+- Deciding on immediate care based on the assessment
+- Providing life support
+- Transporting patients in an ambulance to an emergency room or hospital
+- Transporting patients from the ambulance into the hospital
+- Communicating with nurses, doctors, and other health care professionals
+- Documenting care given to patients
+- Cleaning, replacing, and inventorying equipment
+
+Where EMTs and paramedic practitioners differ is in the types of care that may be administered to a patient. In general, an EMT is not allowed to perform any procedure that punctures the patient’s skin. An exception to this is the use of life-saving injections, such as an epinephrine auto-injector used to treat anaphylaxis from an allergic reaction or the medication used to reverse an overdose caused by opioid drugs.
+
+Other procedures that paramedics may perform, and that EMTs do not, include administering medications, inserting intravenous lines and administering fluids, using and interpreting electrocardiograms, using other advanced health and life support monitors, providing advanced airway management, and caring for and administering life support for patients with significant health problems, like trauma or cardiac arrest.
+
+
 # Generalized Rules
 
 - Follow traffic laws to a reasonable extent
@@ -45,3 +64,8 @@ If you are driving a fire apparatus of 30,000 pounds or greater then you must ha
 ## Off Roading
 
 All large vehicles (Ambulance, Engine, Rescue, Ladder Trucks) are only to be driven on paved and dirt roads, North Calafia Way, and Raton Canyon, and Cassidy Trail are considered dirt roads. Do not take these large vehicles off road as they will sink. The Brush truck and FlyCar can be driven on dirt trails and on hard packed sand/gravel (do not drive on loose sand or off trail). The Rover is to be used for all terrains. 
+
+
+
+### Helicopter Controls
+![logo](https://media.discordapp.net/attachments/1063956388147118111/1085164961703153714/oeUcAku.png)

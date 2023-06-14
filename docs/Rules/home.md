@@ -32,8 +32,10 @@
 
 Ban duration is at the discretion of the staff members, generally speaking, the process for a ban is as follows:
 
-1) First Offense = 2-Hour - 12-Hours Ban
-1) Second Offense = 2-Day Ban
+Generally speaking each person gets 3 warnings, then offenses start. It's up to each staff's desecration
+
+1) First Offense = Warning & Kick
+1) Second Offense = 2-Hour-2-Day Ban Or Kick
 2) Third Offense = 1-Week Ban
 3) Fourth Offense = 2-Week Ban
 4) Fifth Offense = Permanent Ban
