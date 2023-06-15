@@ -21,6 +21,7 @@
 - Attacking members in other Discord servers, YouTube, Twitter, etc. is prohibited and punishable.
 - You cannot play OOC content, such as RP montages and Twitch streams, on the in-game TVs.
 - You may not steal a wheelchair from any other player. 
+- No GTA Driving, Keep it realistic. Stop at stop lights, Go the speed limit most the time unless doing crime, Don't constantly run from police, give them proper scenes. You ain't always going to get a W.
 - Common courtesy - Please keep in mind, this is a game, that people from all over the world play. There will be headaches, there will be lag situations, and more. At the end of the day we are all here to have fun.
 - Basic Decency & Respect
     - While our goal is to foster a roleplaying experience free from constraints, We realize we must protect all members of our community regardless of gender, sexual orientation, age, etc. We strive to create a welcoming, friendly, and peaceful atmosphere for all members. A community that members can be proud to say they are a part of. Maple Hearts takes a hard stance against any derogatory terms or actions against its members. We will enforce a strict code of conduct within our community and act on distasteful items, for example, and not limited to Sexual Harassment, Excessive Name-Calling And/Or Shaming, Disrespectful Attacks on a Personal Level, etc.
